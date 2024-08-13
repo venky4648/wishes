@@ -1,0 +1,10 @@
+2024-08-08 11:01:35:135 [31merror[39m:[user_creation] [31mFailed to create user[39m 
+2024-08-08 11:02:11:211 [31merror[39m:[user_creation] [31mFailed to create user[39m 
+2024-08-08 11:04:32:432 [31merror[39m:[user_creation] [31mFailed to create user[39m 
+2024-08-08 11:15:22:1522 [32minfo[39m:[lob-backend] [32mUser created successfully[39m 
+2024-08-08 11:16:05:165 [31merror[39m:[user_creation] [31mFailed to create user[39m 
+2024-08-08 11:16:27:1627 [32minfo[39m:[lob-backend] [32mUser created successfully[39m 
+2024-08-08 11:21:03:213 [32minfo[39m:[user_creation] [32mUser already exists with this email[39m 
+2024-08-08 11:21:14:2114 [32minfo[39m:[user_creation] [32mUser already exists with this email[39m 
+2024-08-08 11:21:19:2119 [32minfo[39m:[lob-backend] [32mUser created successfully[39m 
+2024-08-08 11:29:58:2958 [32minfo[39m:[user_update] [32mUser updated successfully[39m 
